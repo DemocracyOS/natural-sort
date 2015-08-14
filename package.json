@@ -1,9 +1,9 @@
 {
-  "name": "natural-sort",
-  "repo": "javve/natural-sort",
+  "name": "democracyos-natural-sort",
+  "repo": "DemocracyOS/natural-sort",
   "description": "Natural sort algorithm with unicode support",
   "version": "1.0.0",
   "keywords": ["natural sort", "sort", "unicode", "dates"],
-  "twitter": "@javve",
+  "twitter": "@DemocracyOS",
   "license": "MIT"
 }
